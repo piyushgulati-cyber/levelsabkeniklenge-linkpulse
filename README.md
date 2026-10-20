@@ -116,5 +116,5 @@ package.json     Dependencies and scripts
 This is a hackathon prototype. Redirects, click counting and password checks run in the browser, so a determined user could tamper with their own requests or fabricate click data, and password guesses are not rate limited. For production, these would move to a trusted backend such as Firebase Cloud Functions, with alias uniqueness enforced on the server.
 
 ## Team members
-
+- Piyush Gulati ([@piyushgulati-cyber](https://github.com/piyushgulati-cyber))
 - Vaibhav Pargaien ([@Vaibhav-1048](https://github.com/Vaibhav-1048))
